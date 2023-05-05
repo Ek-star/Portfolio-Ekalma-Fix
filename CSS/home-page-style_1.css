@@ -8,7 +8,7 @@
 .all-section {
   display: grid;
   grid-template-columns: 450px 1fr;
-  grid-template-rows: 120px 1600px 200px;
+  grid-template-rows: 120px 1900px 200px;
 }
 
 .desc-links {
